@@ -6,8 +6,6 @@ Personal Portfolio Website for BSIT Student
 ## Project Description
 This is my personal portfolio website created as part of Assignment 01. It showcases my education, skills, and projects. The website is built using HTML & CSS with help of Generative AI tools.
 
-## Screenshots
-(Live website ka screenshot yahan add karunga)
 
 ## Prompt Used
 "Create a modern, dark-themed responsive portfolio website for Muhammad Abdullah, BSIT 1st Semester student at Superior University, with About, Skills, Projects and Contact sections using HTML and CSS."
